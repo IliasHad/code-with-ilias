@@ -6,7 +6,7 @@
 
 [Link to the folder](/how-to-create-video-ffmpeg)
 
-[ffmpeg webassembly](https://github.com/ffmpegwasm/ffmpeg.wasm)
+[FFmpeg Web Assembly](https://github.com/ffmpegwasm/ffmpeg.wasm)
 
 [FFmpeg Node.js SDK](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 
