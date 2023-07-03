@@ -1,0 +1,156 @@
+{
+  "backgroundColor": "#FFFFFFFF",
+  "dimensions": {
+    "height": 1920,
+    "width": 1080
+  },
+  "duration": 15,
+  "layers": [
+    {
+      "id": "154755",
+      "type": "text",
+      "text": {
+        "backgroundColor": "transparent",
+        "backgroundTransform": "none",
+        "border": "none",
+        "borderRadius": 0,
+        "color": "#000000FF",
+        "fontFamily": "Arial",
+        "fontSize": 70,
+        "fontStyle": "normal",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "padding": 16,
+        "text": "Travel vlog",
+        "textAlign": "left",
+        "textDecoration": "none",
+        "textTransform": "none"
+      },
+      "position": {
+        "angle": 0,
+        "angleX": 0,
+        "angleY": 0,
+        "isRelative": false,
+        "origin": "center",
+        "x": "center",
+        "y": 100,
+        "z": 0
+      },
+      "size": {
+        "scale": 1
+      },
+      "timeline": {
+        "start": 0
+      },
+      "transitions": [],
+      "trim": {
+        "start": 0
+      }
+    },
+    {
+      "file": "/Users/ilias/dev/code-with-ilias/how-to-create-video-on-top-of-ffmpeg/editframe/video-1.mp4",
+      "id": "ab036f",
+      "type": "video",
+      "audio": {
+        "volume": 1
+      },
+      "position": {
+        "angle": 0,
+        "angleX": 0,
+        "angleY": 0,
+        "isRelative": false,
+        "origin": "center",
+        "x": "center",
+        "y": "center",
+        "z": 0
+      },
+      "size": {
+        "format": "fit",
+        "scale": 1
+      },
+      "timeline": {
+        "start": 0,
+        "end": 5
+      },
+      "transitions": [
+        {
+          "type": "fadeIn",
+          "duration": 1
+        }
+      ],
+      "trim": {
+        "start": 0
+      }
+    },
+    {
+      "file": "/Users/ilias/dev/code-with-ilias/how-to-create-video-on-top-of-ffmpeg/editframe/video-2.mp4",
+      "id": "b12617",
+      "type": "video",
+      "audio": {
+        "volume": 1
+      },
+      "position": {
+        "angle": 0,
+        "angleX": 0,
+        "angleY": 0,
+        "isRelative": false,
+        "origin": "center",
+        "x": "center",
+        "y": "center",
+        "z": 0
+      },
+      "size": {
+        "format": "fit",
+        "scale": 1
+      },
+      "timeline": {
+        "start": 5,
+        "end": 10
+      },
+      "transitions": [
+        {
+          "type": "fadeIn",
+          "duration": 1
+        }
+      ],
+      "trim": {
+        "start": 0
+      }
+    },
+    {
+      "file": "/Users/ilias/dev/code-with-ilias/how-to-create-video-on-top-of-ffmpeg/editframe/video-3.mp4",
+      "id": "2497ab",
+      "type": "video",
+      "audio": {
+        "volume": 1
+      },
+      "position": {
+        "angle": 0,
+        "angleX": 0,
+        "angleY": 0,
+        "isRelative": false,
+        "origin": "center",
+        "x": "center",
+        "y": "center",
+        "z": 0
+      },
+      "size": {
+        "format": "fit",
+        "scale": 1
+      },
+      "timeline": {
+        "start": 10,
+        "end": 15
+      },
+      "transitions": [
+        {
+          "type": "fadeIn",
+          "duration": 1
+        }
+      ],
+      "trim": {
+        "start": 0
+      }
+    }
+  ]
+}
